@@ -8,8 +8,8 @@ Sou Professor do curso de Engenharia Industrial Elétrica no Campus IFMA Monte C
 
 
 ## 📚☕ Atualmente estou estudando:
-- [![Machine Learning](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java)](https://web.dio.me/track/a7a92326-cb82-41e2-a150-0e5ede46a412)
-- ![Github](https://img.shields.io/badge/Angular-000?style=for-the-badge&logo=angular&logoColor=C3002F)(https://web.dio.me/track/b9eb6374-fbd0-4a21-8747-9f25e8371f03)
+- [![Machine Learning](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=python)](https://web.dio.me/track/a7a92326-cb82-41e2-a150-0e5ede46a412)
+- ![Github](https://img.shields.io/badge/Angular-000?style=for-the-badge&logo=github&logoColor=C3002F)(https://web.dio.me/track/b9eb6374-fbd0-4a21-8747-9f25e8371f03)
 
 
 
