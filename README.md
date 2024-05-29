@@ -7,15 +7,12 @@ Sou Professor do curso de Engenharia Industrial Elétrica no Campus IFMA Monte C
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/claudiofernandes-ma/)
 
 
-## 📚☕ Atualmente estou estudando:
-- [![Machine Learning](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=python)](https://web.dio.me/track/a7a92326-cb82-41e2-a150-0e5ede46a412)
-- ![Github](https://img.shields.io/badge/Angular-000?style=for-the-badge&logo=github&logoColor=C3002F)(https://web.dio.me/track/b9eb6374-fbd0-4a21-8747-9f25e8371f03)
+## 📚☕ Atualmente estou estudandofazendo vários cursos na DIO:
 
+[![DIO]](https://www.dio.me/users/claudio_fernandes)
 
-
- <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
-
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ccfernandes600)
 
 ~
-</Projetos/dio-lab-open-source-fork/community/1PedroSoares.md 16,0-1        Tudo
+
                                                                                
