@@ -1,7 +1,7 @@
 ## Bem vindos ao meu GitHub 👋
 <!-- Cabeçalhos-->
 #
-**Claudio Fernandes/ccfernandes600** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Claudio Fernandes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
