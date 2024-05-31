@@ -34,7 +34,8 @@ Sou Professor do curso de Engenharia Industrial Elétrica no Campus IFMA Monte C
 
 # Instrutor  Cursos
 
-[![Badges Netacad](https://img.shields.io/badge/CISCO-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)]  (https://www.credly.com/users/claudio-antonio-fernandes)
+[![Badges Netacad](https://img.shields.io/badge/CISCO-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)](https://www.credly.com/users/claudio-antonio-fernandes)
+
 
 
 
