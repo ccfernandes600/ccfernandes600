@@ -17,10 +17,24 @@ Sou Professor do curso de Engenharia Industrial Elétrica no Campus IFMA Monte C
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
+![Linux]https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black
+
+![Google%20Colab]https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252
+
+![Vim]https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white
+
+![Vscode%20Linux]https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white
+
+![Cisco%20Packet%Tracer]https://img.shields.io/badge/CISCO-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white
+
+
 # Cursos e Bootcamps
 
 [![DIO](https://img.shields.io/badge/Meu%20Perfil%20%20na%20DIO.me-8A2BE2)](https://www.dio.me/users/claudio_fernandes)
 
+# Instrutor  Cursos
+
+[![Badges%20Netacad](https://img.shields.io/badge/CISCO-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)] (https://www.credly.com/users/claudio-antonio-fernandes)
 
 
 
