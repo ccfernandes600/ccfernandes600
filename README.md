@@ -16,7 +16,7 @@ Sou Professor do curso de Engenharia Industrial Elétrica no Campus IFMA Monte C
 
 # Capacitação: Atualmente estou fazendo vários cursos na DIO:
 
-[![DIO](https://github.com/ccfernandes600/ccfernandes600/blob/main/DIO.png)](https://www.dio.me/users/claudio_fernandes)
+[![DIO](https://img.shields.io/badge/DIO.me)](https://www.dio.me/users/claudio_fernandes)
 
 
 ~
