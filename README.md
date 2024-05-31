@@ -2,7 +2,8 @@
 # Olá! Meu nome é Cláudio Fernandes.
 
 Sou Professor do curso de Engenharia Industrial Elétrica no Campus IFMA Monte Castelo em São Luís-MA.  Atualmente ensino as disciplinas de Introdução a Programação com python e Informática Industrial com enfase em IoT. Atualmente estou fazendo vários cursos na DIO IA, ML , Python, Git e GitHub e demais tecnologias correlatas.  Além disto sou praticante de Crossfit nas horas vagas e adoro assistir CSGO2  
-# Conecte-se comigo
+
+# 🔌Conecte-se comigo / Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/claudiofernandes-ma/)
 
@@ -12,13 +13,15 @@ Sou Professor do curso de Engenharia Industrial Elétrica no Campus IFMA Monte C
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/ccfernandes_MA)
 
 
+# ⚒️ Habilidades / Hardskills
 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-# Capacitação: Atualmente estou fazendo vários cursos na DIO:
+# Cursos e Bootcamps
 
 [![DIO](https://img.shields.io/badge/Meu%20Perfil%20%20na%20DIO.me-8A2BE2)](https://www.dio.me/users/claudio_fernandes)
 
 
-~
+
 
                                                                                
