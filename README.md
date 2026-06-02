@@ -1,79 +1,101 @@
-## Bem vindos ao meu GitHub 👋
-# Olá! Meu nome é Cláudio Fernandes.
+# 👋 Bem-vindos ao meu GitHub | Welcome to my GitHub
 
-## Experiência e Dedicação
+Sou Cláudio Fernandes, professor do IFMA em São Luís - MA, com atuação em programação aplicada à engenharia, redes de computadores, IoT e uso prático de IA na educação.
 
-* **Professor de Engenharia Industrial Elétrica** no IFMA Monte Castelo, São Luís-MA.
-    * **Disciplinas Atuais:**
-        * Introdução à Programação com Python.
-        * Informática Industrial com Ênfase em IoT.
-        * Técnicas de Programação.
-* **Instrutor Certificado** em Cisco NetAcad e Cisco SkillsForAll.
+I am Cláudio Fernandes, a professor at IFMA in São Luís - MA, Brazil, working with engineering-oriented programming, computer networks, IoT, and practical uses of AI in education.
 
-## Desenvolvimento Profissional Contínuo
+---
 
-* **Atualizando minhas habilidades:**
-    * Cursos em IA, ML, Python, Git, GitHub e tecnologias correlatas na Cisco Netacad, Cisco Skillforall e na plataforma DIO.
-    * Busco aprimorar meu conhecimento constantemente para oferecer o melhor aos meus alunos.
+## 🧑‍🏫 Sobre mim | About me
 
-## Além da Sala de Aula
+- Professor de programação para Engenharia Elétrica e Mecânica
+- Ensino Python 3.11 com foco em programação aplicada à engenharia
+- Atuo com alunos iniciantes, mas com boa base em exatas
+- Instrutor Cisco NetAcad na área de redes
+- Desenvolvo projetos de IoT com Cisco Packet Tracer
+- Utilizo IA generativa como apoio pedagógico, planejamento e organização de projetos técnicos
 
-* **Apaixonado por Crossfit:** Dedico minhas horas vagas à prática, buscando equilíbrio entre corpo e mente.
-* **Entusiasta de CSGO2:** Apreciado de assistir e acompanhar as competições.
+- Programming professor for Electrical and Mechanical Engineering
+- I teach Python 3.11 with a focus on engineering applications
+- I work with beginner students who already have a solid background in exact sciences
+- Cisco NetAcad instructor in networking
+- I develop IoT projects with Cisco Packet Tracer
+- I use generative AI as support for teaching, planning, and technical project organization
 
-## Perfil
+Gosto de transformar conceitos de programação, redes e IoT em atividades práticas que os alunos possam compreender, testar e evoluir.
 
-* **Professor experiente e dedicado.**
-* **Apaixonado por tecnologia e ensino.**
-* **Em constante aprendizado e evolução.**
-* **Comunicador eficaz e com ótima didática.**
-* **Habilidades interpessoais e de trabalho em equipe.**
+I enjoy turning programming, networking, and IoT concepts into practical activities that students can understand, test, and improve.
 
+---
 
-# 🔌Conecte-se comigo / Connect with me
+## 🚀 Áreas de atuação | Main areas
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/claudiofernandes-ma/)
+- Programação aplicada à engenharia
+- Python 3.11 para iniciantes
+- Redes de computadores
+- Cisco Packet Tracer
+- IoT e automação
+- Documentação técnica
+- Uso educacional de IA
 
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ccfernandes600)
+- Engineering-oriented programming
+- Python 3.11 for beginners
+- Computer networks
+- Cisco Packet Tracer
+- IoT and automation
+- Technical documentation
+- Educational use of AI
 
+---
 
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/ccfernandes_MA)
+## 🛠️ Habilidades técnicas | Technical skills
 
+- **Linguagens e Scripts / Languages & Scripts**  
+  Python 3.11, Markdown
 
-# ⚒️ Habilidades / Hardskills
+- **Ferramentas e Ambientes / Tools & Environments**  
+  Google Colab, Linux, Windows 11, VS Code, Vim
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+- **Redes e Simulação / Networking & Simulation**  
+  Cisco Packet Tracer, LAN/WAN, NAT, Frame Relay
 
-![Git GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)
+- **Plataformas e Fluxo de Trabalho / Platforms & Workflow**  
+  Git, GitHub, documentação técnica e organização de projetos
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+---
 
-![Google%20Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
+## 📚 Formação contínua | Continuous learning
 
-![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white)
+Busco atualização constante em IA, Machine Learning, Python, Git, GitHub e tecnologias relacionadas, com foco em melhorar a prática docente e o desenvolvimento de projetos aplicados.
 
-![Vscode Linux](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+I continuously improve my skills in AI, Machine Learning, Python, Git, GitHub, and related technologies to strengthen both teaching practice and applied project development.
 
-![Cisco Packet Tracer](https://img.shields.io/badge/CISCO-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+- [DIO – Perfil / Profile](https://www.dio.me/users/claudio_fernandes)
+- [Cisco / Credly Badges](https://www.credly.com/users/claudio-antonio-fernandes)
 
-![Markdown](https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=markdown)
+---
 
+## 🌐 Conecte-se comigo | Connect with me
 
-# 📖  Cursos e Bootcamps
+- [LinkedIn](https://www.linkedin.com/in/claudiofernandes-ma/)
+- [GitHub](https://github.com/ccfernandes600)
+- [Twitter / X](https://x.com/ccfernandes_MA)
+- [ORCID](https://orcid.org/0009-0004-4664-6330)
 
-[![DIO](https://img.shields.io/badge/Meu%20Perfil%20%20na%20DIO.me-8A2BE2)](https://www.dio.me/users/claudio_fernandes)
+---
 
-# 📚 Instrutor  Cursos
+## 💬 Além da área técnica | Beyond tech
 
-[![Badges Netacad](https://img.shields.io/badge/CISCO-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)](https://www.credly.com/users/claudio-antonio-fernandes)
+- Crossfit para equilíbrio entre corpo e mente
+- Interesse em e-sports e cenário competitivo de CS2
 
-#  GitHub Stats
+- Crossfit for balance between body and mind
+- Interest in e-sports and the competitive CS2 scene
+
+---
+
+## 📈 GitHub Stats
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ccfernandes600&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
-## Linguagens mais usadas
+
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ccfernandes600&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
-
-
-
-
-
-                                                                               
