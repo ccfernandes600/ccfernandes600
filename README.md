@@ -7,7 +7,7 @@
     * **Disciplinas Atuais:**
         * Introdução à Programação com Python.
         * Informática Industrial com Ênfase em IoT.
-        *         * Técnicas de Programação.
+        * Técnicas de Programação.
 * **Instrutor Certificado** em Cisco NetAcad e Cisco SkillsForAll.
 
 ## Desenvolvimento Profissional Contínuo
